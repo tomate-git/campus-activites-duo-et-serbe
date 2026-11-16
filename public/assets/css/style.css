@@ -1,0 +1,11 @@
+body { background: #f6f8fc; color: #17243d; }
+.container { width: min(100% - 2rem, 1120px); margin-inline: auto; }
+.site-header { background: #fff; border-bottom: 1px solid #dce4ef; }
+.site-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem; padding-block: 1rem; }
+.brand { color: #17243d; font-weight: 700; text-decoration: none; }
+.hero { background: #e5edfb; border-radius: 1rem; padding: clamp(1.5rem, 5vw, 4rem); }
+.eyebrow { color: #294d85; font-size: .8rem; font-weight: 700; letter-spacing: .12em; }
+.catalogue .card { border: 1px solid #dce4ef; border-radius: .75rem; background: #fff; }
+.catalogue .card-body { padding: 1.25rem; }
+.catalogue article { margin-bottom: .75rem; }
+.site-footer { padding-block: 1.25rem; color: #4e5f79; border-top: 1px solid #dce4ef; }
