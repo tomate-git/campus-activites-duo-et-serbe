@@ -1,5 +1,5 @@
 BESSIERE GURBUZ ET LESERBE vous êtes des étranger pour moi !
-
+blablabla est la règle
 # Campus activités
 
 Maquette de départ du projet BTS SIO SLAM. Ouvrez le cahier des charges Word situé à côté de ce dossier dans le ZIP.

@@ -6,7 +6,7 @@ require __DIR__ . '/../src/inclusions/entete.php';
     <section class="hero">
         <p class="eyebrow">VIE DU CAMPUS</p>
         <h1>Les activités du campus</h1>
-        <p class="lead">Découvrez les ateliers, les rencontres et les événements proposés aux étudiants.</p>
+        <p class="lead">Découvrez les ateliers, les rencontres et les événements proposés aux étudiants et a Christian.</p>
         <a class="btn btn-primary" href="activites.php">Consulter le catalogue</a>
     </section>
 </main>
