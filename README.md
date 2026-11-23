@@ -34,4 +34,5 @@ Si le professeur fournit une adresse via Wamp/Apache, utilisez celle-ci avec `pu
 
 Git se lance à la racine de `campus-activites`. Si vous poursuivez dans le dépôt de la première séquence, intégrez cette base dans ce dépôt et vérifiez les différences avant de committer. Si vous partez du ZIP, un membre initialise le dépôt, puis le publie et invite son partenaire. Le partenaire clone le dépôt commun. Consultez la séance Git pour la procédure sur `main`.
 
-Phrase de présentation : Découvrez les activités du campus.
+présentation : Participez aux ateliers du campus.
+
