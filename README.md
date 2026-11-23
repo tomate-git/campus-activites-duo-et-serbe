@@ -1,4 +1,5 @@
 BESSIERE GURBUZ ET LESERBE
+blablabla est la règle
 
 # Campus activités
 
