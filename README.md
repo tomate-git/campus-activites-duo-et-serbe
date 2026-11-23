@@ -1,5 +1,5 @@
-BESSIERE GURBUZ ET LESERBE
-blablabla est la règle le serbe là haaaaaa
+BESSIERE GURBUZ ET LESERBE vous êtes des étranger pour moi !
+blablabla est la règle
 
 # Campus activités
 
